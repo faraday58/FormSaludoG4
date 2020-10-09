@@ -12,7 +12,7 @@ namespace FormSaludoG4
         private Button btnLimpiar;
         #endregion
 
-        
+        //Método
         private void IniciarComponentes()
         {
 
